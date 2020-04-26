@@ -1,0 +1,13 @@
+/Users/joshli/gaims/bowman_v1.2/build/CMakeFiles/install/local.dir
+/Users/joshli/gaims/bowman_v1.2/build/CMakeFiles/install/strip.dir
+/Users/joshli/gaims/bowman_v1.2/build/CMakeFiles/install.dir
+/Users/joshli/gaims/bowman_v1.2/build/CMakeFiles/list_install_components.dir
+/Users/joshli/gaims/bowman_v1.2/build/CMakeFiles/rebuild_cache.dir
+/Users/joshli/gaims/bowman_v1.2/build/CMakeFiles/edit_cache.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/install/local.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/install/strip.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/install.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/list_install_components.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/rebuild_cache.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/edit_cache.dir
+/Users/joshli/gaims/bowman_v1.2/build/source/CMakeFiles/BOWMANS.dir

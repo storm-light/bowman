@@ -1,0 +1,4 @@
+/Users/joshli/gaims/bowman_v1.2/build/source/Spoopies.ttf
+/Users/joshli/gaims/bowman_v1.2/build/source/white.png
+/Users/joshli/gaims/bowman_v1.2/build/source/space.png
+/Users/joshli/gaims/bowman_v1.2/build/source/cross2.png

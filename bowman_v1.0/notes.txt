@@ -1,0 +1,7 @@
+// NOTES:
+// -update collision for fast moving arrows (sometimes they disappear in ground) 
+// -add hearts at top of screen for lives 
+// -fix new arrow memory leak 
+// -power shield (reflects arrow)
+// -get angles working
+

@@ -1,0 +1,47 @@
++strikethrough+
+/italic/
+*bold*
+*SOMETHING TO REMEMBER: DESIGNS CAN BE AMAZING IN ASPECTS OTHER THAN GRAPHICS*
+* TODO
+** DONE get org mode working
+** TODO stop movement when aiming, (movement goes to crosshair)
+** TODO hp bar
+** TODO cmake
+** TODO git
+   
+ anOther Design:
+ - ESKETIT (not in bowman)
+   - perhaps fortnite building mechanics
+   - grenades ass projectiles
+ - simulation stock market (kind similar to rotmg trading scheme)
+ - april foods reddit pixel game (with groups like void, etc.)
+
+ - every 5 seconds you get a clone (in inventory)
+   - each clone has 1 life, player has 3
+  - crosshair is the target of all clones
+ - friendly fire on (clones hitting other clones and yourself)
+   - shot is a laser beam (upgrade with pierce, duration, width, etc.)
+     - physics: laser applies force/torque at collision point
+       - friction on floor (this is essentially topdowner)
+         - square on square collision constraints
+     - make a timer in game counting down by 5s.
+
+ (worry about graphics later)      
+ - try using cmake to build an app, then change NSHighResolutionCapable to True in Info.plist
+
+   - extra effects:
+     - crosshair is also hittable by laser
+       - different powerups available such as ...
+         - particle effects when shooting laser
+   - add mode where you control clones in a certain radius from yourself
+     
+
+- joshOG game incentives (seen in fortnite, not pubg)
+  - leveling up
+  - unlocking skins 
+
+- factions
+  - use "/f map" as main screen (see photo on desktop)
+  - (each block can be a certain type of room/wall)
+  - there can be different layers of "/f map" screen (to mimick 3d-ness)
+  - maybe option to enter landscape mode from "/f map" screen
