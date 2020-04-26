@@ -1,5 +1,4 @@
 # bowman
-may the better archer win
 
 This project uses [SDL2](https://www.libsdl.org/) libraries. In order to build and run executables, install as such:
 ```
